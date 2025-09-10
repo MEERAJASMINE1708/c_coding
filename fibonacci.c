@@ -9,7 +9,7 @@ int main(){
     int i,n,t1=0,t2=1,next_term;
     printf("Enter an integer:\n");
     scanf("%d",&n);
-    printf("The FIbonacci Series is:\n");
+    printf("The Fibonacci Series is:\n");
     for(i=1;i<=n;i++){
         
         printf("%d\n",t1);
