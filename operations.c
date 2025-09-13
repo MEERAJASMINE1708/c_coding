@@ -40,5 +40,6 @@ int main(){
     c=a/b;
     printf("\n The Division is:%f",c);
     // Modulo division not accepted in case of float values.
+    
     return 0;
 }
